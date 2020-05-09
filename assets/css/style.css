@@ -620,8 +620,7 @@ a {
   top: 0px;
 }
 
-.header-navbar__hamburger span:nth-child(2),
-.header-navbar__hamburger span:nth-child(3) {
+.header-navbar__hamburger span:nth-child(2), .header-navbar__hamburger span:nth-child(3) {
   top: 9px;
 }
 
@@ -668,6 +667,8 @@ a {
   transition: color 0.5s;
 }
 
+.header-navbar
+.header-navbar
 .header-navbar__link:hover {
   color: #d66926;
 }
